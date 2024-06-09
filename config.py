@@ -5,7 +5,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "22867431"))
 API_HASH = getenv("API_HASH", "24ef0e76ceb137563dc33722e4cd79bd")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7483130894:AAH9VSFstcInQmPS2NGEKv5ivcq_XtAfkx8")
+BOT_TOKEN = getenv("BOT_TOKEN", "7340557811:AAH5AkYPuilpuPHz0hJjDGtnT9PQ9W2U_w4")
 LOG_ID = int(getenv("LOG_ID", "-1002197525160"))
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://niksharma92297:afk@cluster0.wj4ftow.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
